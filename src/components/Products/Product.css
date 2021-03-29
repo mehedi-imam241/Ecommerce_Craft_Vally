@@ -1,0 +1,12 @@
+.imageLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 220px;
+  margin-bottom: 10px;
+}
+.imageLink img {
+  min-width: 100%;
+  min-height: 100%;
+}

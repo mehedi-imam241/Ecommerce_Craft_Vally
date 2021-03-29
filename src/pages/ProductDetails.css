@@ -1,0 +1,11 @@
+.DetailsImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+}
+.DetailsImage img {
+  overflow: hidden;
+  min-width: 100%;
+  max-width: 100%;
+}
